@@ -4,7 +4,7 @@ Donate link: http://www.tekgazet.com
 Tags: facebook, comments, facebook comments, social, html5, moderator, xfbml, facebook plugin, wp comments, website comments, opengraph, facebook share
 Requires at least: 3.0.1
 Tested up to: 4.2.4
-Stable tag: 1.0
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

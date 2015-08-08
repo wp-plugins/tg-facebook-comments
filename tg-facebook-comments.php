@@ -3,7 +3,7 @@
  * Plugin Name: TG Facebook Comments
  * Plugin URI : http://www.tekgazet.com/tg-facebook-comments-plugin
  * Description: Add, customize and moderate Facebook Comments on your website in simple and easy way. Decide where and how Facebook comments will appear.
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: Ashok Dhamija
  * Author URI: http://tilakmarg.com/dr-ashok-dhamija/
  * License: GPLv2 or later
